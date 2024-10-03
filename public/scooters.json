@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "latitude": 35.6892,
+        "longitude": 51.3890,
+        "status": "فعال",
+        "color": "hsl(178.9, 96.6%, 46.3%)",
+        "code": "3300",
+        "number": "09120000000" 
+    },
+    {
+        "id": 2,
+        "latitude": 35.6800, 
+        "longitude": 51.3850, 
+        "status": "کم بودن باتری",
+        "color": "#1859fd",
+        "code": "3310",
+        "number": "09120000000" 
+    },
+    {
+        "id": 3,
+        "latitude": 35.6900, 
+        "longitude": 51.3960, 
+        "status": "خارج از محدوده",
+        "color": "#e11717",
+        "code": "3311",
+        "number": "09120000000" 
+    },
+    {
+        "id": 4,
+        "latitude": 35.6825, 
+        "longitude": 51.3790, 
+        "status": "در حال سواری",
+        "color": "#fff275",
+        "code": "3312",
+        "number": "09120000000" 
+    },
+    {
+        "id": 5,
+        "latitude": 35.6955, 
+        "longitude": 51.3920, 
+        "status": "دارای گزارش فعال",
+        "color": "#ffa50c",
+        "code": "3313",
+        "number": "09120000000" 
+    },
+    {
+        "id": 6,
+        "latitude": 35.6810, 
+        "longitude": 51.3710, 
+        "status": "فعال",
+        "color": "hsl(178.9, 96.6%, 46.3%)",
+        "code": "3314",
+        "number": "09120000000" 
+    },
+    {
+        "id": 7,
+        "latitude": 35.6925, 
+        "longitude": 51.3980, 
+        "status": "فعال",
+        "color": "hsl(178.9, 96.6%, 46.3%)",
+        "code": "3315",
+        "number": "09120000000" 
+    },
+    {
+        "id": 8,
+        "latitude": 35.6830, 
+        "longitude": 51.3840, 
+        "status": "کم بودن باتری",
+        "color": "#1859fd",
+        "code": "3316",
+        "number": "09120000000" 
+    },
+    {
+        "id": 9,
+        "latitude": 30.6920,
+        "longitude": 58.3990, 
+        "status": "فعال",
+        "color": "hsl(178.9, 96.6%, 46.3%)",
+        "code": "3317",
+        "number": "09120000000" 
+    },
+    {
+        "id": 10,
+        "latitude": 35.7000,
+        "longitude": 51.4000,
+        "status": "در حال شارژ",
+        "color": "#00ff00",
+        "code": "3318",
+        "number": "09120000000"
+    },
+    {
+        "id": 11,
+        "latitude": 35.7100,
+        "longitude": 51.4100,
+        "status": "فعال",
+        "color": "hsl(178.9, 96.6%, 46.3%)",
+        "code": "3319",
+        "number": "09120000000"
+    },
+    {
+        "id": 12,
+        "latitude": 35.7200,
+        "longitude": 51.4200,
+        "status": "در دست تعمیر",
+        "color": "#ffff00",
+        "code": "3320",
+        "number": "09120000000"
+    }
+]
